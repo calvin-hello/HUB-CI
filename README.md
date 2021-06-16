@@ -1,2 +1,2 @@
 # HUB-CI
-A web development and software company
+A web development and software company.
